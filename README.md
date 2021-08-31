@@ -12,11 +12,11 @@ docker-compose ps --services
 
 ## additional info
 for grafana, default username is admin, default password is admin  
-
+  
 ## grafana config for influx
-HTTP.url = <ip-address>:8086
-HTTP.access = server
-
-Database = speedtest
-User = admin
-Password = password
+HTTP.url = <ip-address>:8086  
+HTTP.access = server  
+  
+Database = speedtest  
+User = admin  
+Password = password  
